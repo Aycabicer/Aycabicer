@@ -1,6 +1,6 @@
 # Hi there, I'm Ayça 👋  
 
-🎓 Industrial & Computer Engineering double major @ Koç University  
+🎓 Industrial & Computer Engineering double major @Koç University  
 📊 Passionate about **data-driven product development**, **game analytics**, and **digital experiences**.  
 💡 I love combining **data, design, and engineering** to create engaging and measurable player experiences.
 
