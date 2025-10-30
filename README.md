@@ -11,7 +11,8 @@
 | Area | Technologies |
 | :--- | :--- |
 | **Programming** | Python, Java, C, JavaScript, SQL |
-| **Data & Analytics** | Pandas, NumPy, Power BI, Excel, A/B Testing |
+| **Data & Analytics** | Pandas, NumPy, Power BI, A/B Testing |
+| **Game Development** | OOP Design Patterns, Collision Detection, Level Design |
 | **Tools** | Git, Docker, Makefile, GitHub Actions |
 | **Currently Learning** | Game analytics frameworks, Unity basics, and data visualization for games |
 
@@ -21,10 +22,12 @@
 
 | Project | Description | Tools |
 | :--- | :--- | :--- |
-| **Player Retention Analysis (Demo Dataset)** | Analyzed in-game behavior data to identify retention and churn patterns; visualized KPIs like session length and DAU/WAU. | Python (Pandas, Matplotlib) |
-| **A/B Test Simulator** | Built an A/B testing tool to compare feature versions using player conversion metrics and statistical significance. | Python, NumPy |
-| **Mini Game Dashboard** | Designed an interactive Power BI dashboard to monitor player KPIs like engagement rate and level completion. | Power BI |
-| **Cuddle (EPITECH Project)** | Re-implemented key Pandas functionalities in C for efficient data manipulation. | C, Data Structures |
+| **🧩 2D Platformer Game** | Developed in COMP302 (Software Engineering). Designed and implemented a complete platformer game using OOP principles and design patterns. Built an integrated **level editor** and **collision detection system**. | Java, OOP, Game Physics |
+| **🏀 NBA Simulation Platform** | Developed in COMP132 (Introduction to Programming II). Designed a simulation platform where NBA teams could be paired and played. The project emphasized **modular architecture**, **clean code**, and **object-oriented principles**. | Java, OOP |
+| **📊 Player Retention Analysis (Demo Dataset)** | Analyzed in-game behavior data to identify retention and churn patterns; visualized KPIs like session length and DAU/WAU. | Python (Pandas, Matplotlib) |
+| **🧪 A/B Test Simulator** | Built an A/B testing tool to compare feature versions using player conversion metrics and statistical significance. | Python, NumPy |
+| **📈 Mini Game Dashboard** | Designed an interactive Power BI dashboard to monitor player KPIs like engagement rate and level completion. | Power BI |
+| **📚 Cuddle (EPITECH Project)** | Re-implemented key Pandas functionalities in C for efficient data manipulation. | C, Data Structures |
 
 ---
 
@@ -39,7 +42,7 @@
 ### 🌐 Let’s Connect  
 
 - 💼 [LinkedIn](https://linkedin.com/in/ayca-bicer)  
-- 📬 Email available upon request  
+- 📬 abicer20@ku.edu.tr  
 - 🔍 [Browse my repositories](https://github.com/Aycabicer?tab=repositories)
 
 ---
