@@ -25,10 +25,9 @@
 | **🧩 2D Platformer Game** | Developed in COMP302 (Software Engineering). Designed and implemented a complete platformer game using OOP principles and design patterns. Built an integrated **level editor** and **collision detection system**. | Java, OOP, Game Physics |
 | **🏀 NBA Simulation Platform** | Developed in COMP132 (Introduction to Programming II). Designed a simulation platform where NBA teams could be paired and played. The project emphasized **modular architecture**, **clean code**, and **object-oriented principles**. | Java, OOP |
 | **📈 Dashboard** | Designed an interactive Power BI dashboard to monitor player KPIs like engagement rate and level completion. | Power BI |
-| **📚 Cuddle (EPITECH Project)** | Re-implemented key Pandas functionalities in C for efficient data manipulation. | C, Data Structures |
-| **G-AIA-200 (Cuddle)** | Re-coding the popular Python Pandas library in C. Focuses on handling CSV files, custom data structures, and efficient data manipulation (filtering, sorting, aggregation).The core product is a static library | C, Data Structures|
-| **B-DOP-200 (Popeye)**  | Mastering containerization by defining a multi-container web poll application's deployment. The application includes services like Poll (Flask/Python), Worker (Java), Result (Node.js), Redis, and PostgreSQL. | Docker, Docker Compose |
-| **B-DOP-200 (Chocolatine)** | Setting up a CI/CD workflow using GitHub Actions to enforce good practices. Features include running coding style checks, program compilation, unit tests, and mirroring the repository to a private UR | GitHub Actions, YAML |
+| **📚 G-AIA-200 (Cuddle)** | Re-coding the popular Python Pandas library in C. Focuses on handling CSV files, custom data structures, and efficient data manipulation (filtering, sorting, aggregation).The core product is a static library | C, Data Structures|
+| **📚 B-DOP-200 (Popeye)**  | Mastering containerization by defining a multi-container web poll application's deployment. The application includes services like Poll (Flask/Python), Worker (Java), Result (Node.js), Redis, and PostgreSQL. | Docker, Docker Compose |
+| **📚 B-DOP-200 (Chocolatine)** | Setting up a CI/CD workflow using GitHub Actions to enforce good practices. Features include running coding style checks, program compilation, unit tests, and mirroring the repository to a private UR | GitHub Actions, YAML |
 
 ---
 
